@@ -5,7 +5,7 @@ This template can be used for reference and feel free for make it real your own 
 
 ## Check the result
 ---
-![test](main.pdf)
+![test](images/cv.jpg)
 
 ## Package
 ---
