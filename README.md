@@ -28,7 +28,7 @@ Changing the default font type to sans font type
 \renewcommand{\familydefault}{\sfdefault}
 ```
 
-## Varibles
+## Variables
 ---
 
 Declaring the variables for the document
